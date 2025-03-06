@@ -36,7 +36,11 @@ bash : ./atm_simulation
 2. Set up a 4-digit PIN when prompted (e.g., 1234).
 3. Enter the PIN to authenticate (3 attempts allowed).
 4. Once authenticated, interact with the menu:
+   
     1: Check your balance.
+   
     2: Deposit money.
+   
     3: Withdraw money.
+   
     4: Exit the program.
