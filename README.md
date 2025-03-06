@@ -1,9 +1,11 @@
 ATM Simulation in C
 
-Overview
+**Overview**
+
 This project is a simple ATM (Automated Teller Machine) Simulation implemented in the C programming language. It mimics basic ATM functionalities such as PIN-based authentication, checking account balance, depositing money, withdrawing money, and exiting the system. The program demonstrates fundamental C concepts like functions, loops, conditionals, and input validation, while providing a secure and user-friendly interface.
 
-Features
+**Features**
+
 PIN Setup and Authentication: Users set a 4-digit PIN at the start and must enter it correctly to access the ATM, with a limit of 3 incorrect attempts.
 Check Balance: Displays the current account balance.
 Deposit: Allows users to add money to their account (positive amounts only).
