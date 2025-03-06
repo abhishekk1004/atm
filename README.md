@@ -13,22 +13,25 @@ Withdraw: Permits money withdrawal (if sufficient balance and positive amount).
 Exit: Gracefully terminates the program.
 Error Handling: Validates inputs and provides feedback for invalid PINs, amounts, or menu choices.
 
-Prerequisites
+**Prerequisites**
+
 A C compiler (e.g., GCC) installed on your system.
 Basic knowledge of running C programs in a terminal or IDE.
 
-Installation
-Clone the Repository:
+**Installation**
+
+**Clone the Repository:**
 bash :git clone https://github.com/abhishekk1004/atm.git
 cd atm
 
-Compile the Code: Use a C compiler like GCC to compile the source file:
+**Compile the Code:** Use a C compiler like GCC to compile the source file:
 bash : gcc -o atm atm.c
 
-Run the Program:
+**Run the Program:**
 bash : ./atm_simulation
 
-Usage
+**Usage**
+
 1. Launch the program.
 2. Set up a 4-digit PIN when prompted (e.g., 1234).
 3. Enter the PIN to authenticate (3 attempts allowed).
